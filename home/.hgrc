@@ -4,3 +4,17 @@ username = Ilkka Laukkanen <ilkka.s.laukkanen@gmail.com>
 [extensions]
 mq =
 prompt = ~/.hgext/hg-prompt/prompt.py
+bookmarks =
+bugzilla =
+children =
+churn =
+color =
+graphlog =
+hgk =
+highlight =
+parentrevspec =
+progress =
+purge =
+rebase =
+transplant =
+zeroconf =
