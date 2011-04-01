@@ -2,4 +2,5 @@
 username = Ilkka Laukkanen <ilkka.s.laukkanen@gmail.com>
 
 [extensions]
-mq=
+mq =
+prompt = ~/.hgext/hg-prompt/prompt.py
