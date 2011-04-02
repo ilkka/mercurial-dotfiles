@@ -2,8 +2,8 @@
 username = Ilkka Laukkanen <ilkka.s.laukkanen@gmail.com>
 
 [extensions]
+# preinstalled with mercurial
 mq =
-prompt = ~/.hgext/hg-prompt/prompt.py
 bookmarks =
 bugzilla =
 children =
@@ -18,3 +18,6 @@ purge =
 rebase =
 transplant =
 zeroconf =
+# custom stuff in my hgext dir
+prompt = ~/.hgext/hg-prompt/prompt.py
+hggit = ~/.hgext/hg-git/hggit
