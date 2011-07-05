@@ -16,6 +16,7 @@ parentrevspec =
 progress =
 purge =
 rebase =
+record =
 transplant =
 zeroconf =
 # custom stuff in my hgext dir
