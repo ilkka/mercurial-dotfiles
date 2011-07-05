@@ -21,3 +21,9 @@ zeroconf =
 # custom stuff in my hgext dir
 prompt = ~/.hgext/hg-prompt/prompt.py
 hggit = ~/.hgext/hg-git/hggit
+
+[merge-tools]
+threesome.executable = gvim
+threesome.args = -f $base $local $other $output -c 'ThreesomeInit'
+threesome.premerge = keep
+threesome.priority = 1
