@@ -12,6 +12,7 @@ color =
 graphlog =
 hgk =
 highlight =
+pager =
 parentrevspec =
 progress =
 purge =
@@ -29,3 +30,6 @@ threesome.executable = gvim
 threesome.args = -f $base $local $other $output -c 'ThreesomeInit'
 threesome.premerge = keep
 threesome.priority = 1
+
+[pager]
+pager = LESS='FSRX' less
