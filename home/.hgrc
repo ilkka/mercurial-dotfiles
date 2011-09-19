@@ -1,6 +1,3 @@
-[ui]
-username = Ilkka Laukkanen <ilkka.s.laukkanen@gmail.com>
-
 [extensions]
 # preinstalled with mercurial
 mq =
