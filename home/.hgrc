@@ -21,6 +21,7 @@ zeroconf =
 prompt = ~/.hgext/hg-prompt/prompt.py
 # This causes endless grief because of the dulwich requirement, gonna disable
 #hggit = ~/.hgext/hg-git/hggit
+shelve =
 
 [merge-tools]
 threesome.executable = gvim
